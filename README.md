@@ -1,4 +1,12 @@
-### Hi there 👋
+Hello 👋
+
+My name is Ilia, I am a Python developer.
+
+I started my journey in IT in 2021 by learning the basics of HTML and CSS, and in 2022 I completely focused on the backend. I am now confident in Python, Django and DRF. My plans include further improvement in algorithms and data structures, as well as gaining commercial experience.
+
+I will be glad to communicate with you and new opportunities that the Universe opens for us )
+
+---
 
 <!--
 **ikorepanov/ikorepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
