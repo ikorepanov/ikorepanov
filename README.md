@@ -1,4 +1,4 @@
-Hello 👋
+### Hello 👋
 
 My name is Ilia, I am a Python developer.
 
@@ -7,6 +7,12 @@ I started my journey in IT in 2021 by learning the basics of HTML and CSS, and i
 I will be glad to communicate with you and new opportunities that the Universe opens for us )
 
 ---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikorepanov&theme=nord_dark)
+
+---
+
+![](https://komarev.com/ghpvc/?username=ikorepanov)
 
 <!--
 **ikorepanov/ikorepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
