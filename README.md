@@ -6,12 +6,10 @@ I started my journey in IT in 2021 by learning the basics of HTML and CSS, and i
 
 I will be glad to communicate with you and new opportunities that the Universe opens for us )
 
----
 ### Some statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikorepanov&theme=nord_dark)
 
----
 ### Contact me
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram)](https://t.me/number_one_lobster) <br>
