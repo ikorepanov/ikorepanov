@@ -1,6 +1,6 @@
-### About me
-
 Hello 👋 My name is Ilia, I am a Python developer.
+
+### About me
 
 I started my journey in IT in 2021 by learning the basics of HTML and CSS, and in 2022 I completely focused on the backend. I am now confident in Python, Django and DRF. My plans include further improvement in algorithms and data structures, as well as gaining commercial experience.
 
