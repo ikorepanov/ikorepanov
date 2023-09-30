@@ -1,4 +1,4 @@
-## **Hello 👋 My name is Ilia, I am a Python developer.**
+## Hello 👋 My name is Ilia, I am a Python developer
 
 ### About me
 
