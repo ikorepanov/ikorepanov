@@ -1,4 +1,6 @@
-![image](https://github.com/ikorepanov/ikorepanov/assets/108400524/3b059a8f-7a8f-4749-bdc0-c06013d7b9f6)
+<p align="center">
+  ![image](https://github.com/ikorepanov/ikorepanov/assets/108400524/3b059a8f-7a8f-4749-bdc0-c06013d7b9f6)
+</p>
 ## Hello 👋 My name is Ilia, I am a Python developer
 
 ### About me
