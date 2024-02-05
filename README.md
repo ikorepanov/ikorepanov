@@ -1,4 +1,3 @@
-![photo_2023-12-17_16-46-46](https://github.com/ikorepanov/ikorepanov/assets/108400524/bd379a0c-7c44-41be-bf10-e1aa03de7ede)
 ## Hello 👋 My name is Ilia, I am a Python developer
 
 ### About me
