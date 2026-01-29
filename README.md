@@ -2,11 +2,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikorepanov&theme=nord_dark)
 
-### Contact me
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram)](https://t.me/number_one_lobster)   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=social&logo=Gmail)](mailto:ikorepanov.study@gmail.com)
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=ikorepanov&color=246ef5)
