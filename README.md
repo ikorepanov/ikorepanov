@@ -1,9 +1,3 @@
-### Some statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikorepanov&theme=nord_dark)
-
----
-
 ![](https://komarev.com/ghpvc/?username=ikorepanov&color=246ef5)
 
 <!--
